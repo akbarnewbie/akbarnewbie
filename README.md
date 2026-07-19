@@ -2,7 +2,7 @@
 
 **Full-stack developer & train-simulation enthusiast** — I build web apps by day and bring railways to life in code by night. 🚂
 
-I'm the creator of **BGPro (Broad Gauge Productions)** — a store and community for hyper-realistic Indian broad-gauge train simulation content — and I contribute graphics and tooling improvements to the open-source train-sim ecosystem (Open Rails, TSRE5).
+I'm the collaborater of **BGPro (Broad Gauge Productions)** — a store and community for hyper-realistic Indian broad-gauge train simulation content — and I contribute graphics and tooling improvements to the open-source train-sim ecosystem (Open Rails, TSRE5).
 
 ## 🔭 What I've been building
 
@@ -20,7 +20,7 @@ I'm the creator of **BGPro (Broad Gauge Productions)** — a store and community
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akbarnewbie&show_icons=true&theme=default)
+
 
 ## 📫 Reach me
 
